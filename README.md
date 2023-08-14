@@ -1,7 +1,7 @@
 # UnityAudioTranslateKit
 The program leverages Google Translate to convert text into speech using Text-to-Speech (TTS) technology. 
 
-Users can input a sentence in various languages, and the program translates it into speech audio. 
+Users can input a sentence in various languages(English, Korean, Japanese, Chinese, Spanish), and the program translates it into speech audio. 
 
 The generated audio can be played in real-time or saved as an MP3 file. It offers support for multiple languages and provides an efficient way to transform written content into spoken language.
 
